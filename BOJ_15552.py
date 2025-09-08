@@ -1,7 +1,9 @@
+# BOJ 15552
+
 import sys
 import time
 
-number = int(input("ìˆ«ìë¥¼ ì…ë ¥í•˜ì„¸ìš”. :"))
+number = int(input("?ˆ«?ë¥? ?…? ¥?•˜?„¸?š”. :"))
 
 start_time = time.time()
 for i in range(number) :
