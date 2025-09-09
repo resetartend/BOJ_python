@@ -3,7 +3,7 @@
 import sys
 import time
 
-number = int(input("?ˆ«?ë¥? ?…? ¥?•˜?„¸?š”. :"))
+number = int(input("ìˆ«ìë¥¼ ì…ë ¥í•˜ì„¸ìš”. :"))
 
 start_time = time.time()
 for i in range(number) :
